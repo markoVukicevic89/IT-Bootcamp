@@ -1,0 +1,123 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  cd Users
+    5  pwd
+    6  ls -l
+    7  cd Marko
+    8  pwd
+    9  cd Desktop
+   10  ls -l
+   11  cd ..
+   12  pwd
+   13  cd ../..
+   14  mkdir test123
+   15  cd test123
+   16  touch test.txt
+   17  nano test.txt
+   18  cat test.txt
+   19  man ls
+   20  man -fls
+   21  history
+   22  history > istorija.txt
+   23  ls --help
+   24  rm test.txt
+   25  mkdir dir2
+   26  rmdir dir2
+   27  cat istorija.txt
+   28  tail istorija.txt
+   29  tail -n 3 istorija.txt
+   30  head istorija.txt
+   31  head -n 3 istorija.txt
+   32  date
+   33  time
+   34  date
+   35  calendar
+   36  cal
+   37  history > istorija.txt
+   38  ls -l
+   39  cd Users
+   40  ls -l
+   41  cd Marko
+   42  ls -l
+   43  cd Desktop
+   44  ls -l
+   45  mkdir Linux
+   46  cd Linux
+   47  ls -l
+   48  touch fajl.txt
+   49  history > fajl.txt
+   50  grep -e cd fajl.txt
+   51  grep -e Marko fajl.txt
+   52  grep -e Linux fajl.txt
+   53  grep -e cd fajl.txt tail
+   54  grep -e cd fajl.txt | tail -n 5
+   55  ps
+   56  ps -e
+   57  kill 1318
+   58  ps
+   59  ps -e
+   60  find fajl.txt
+   61  locate IT Bootcamp
+   62  mkdir NoviFolder
+   63  pwd
+   64  ls -l
+   65  cd ..
+   66  pwd
+   67  mkdir NoviFolder
+   68  pwd
+   69  ls -l
+   70  cd NoviFolder
+   71  touch noviFajl.txt
+   72  history > noviFajl.txt
+   73  cd ..//..
+   74  pwd
+   75  cd ..
+   76  pwd
+   77  cd ..
+   78  pwd
+   79  ls -l
+   80  cd Users
+   81  ls -l
+   82  cd Marko
+   83  ls -;
+   84  ls -l
+   85  cd Desktop
+   86  ls -l
+   87  mkdir JosJedan
+   88  cd JosJedan
+   89  touch Index.html
+   90  touch index.txt
+   91  touch index.css
+   92  history > Index.html
+   93  touch Index.css
+   94  rm Index.css
+   95  ls -l
+   96  cd ..
+   97  rm JosJedan
+   98  rmdir JosJedan
+   99  cd JosJedan
+  100  ls -
+  101  ls -l
+  102  rm Index.html
+  103  cd ..
+  104  rmdir JosJedan
+  105  cd NoviFolder
+  106  ls -l
+  107  nano noviFajl.txt
+  108  cd Users
+  109  cd Marko
+  110  cd Desktop
+  111  cd NoviFolder
+  112  ls -l
+  113  cat noviFajl.txt
+  114  pwd
+  115  man ls
+  116  time
+  117  date
+  118  cd ..
+  119  ls -l
+  120  cd Linux
+  121  ls -l
+  122  tail fajl.txt
+  123  history > fajl.txt
